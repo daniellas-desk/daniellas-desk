@@ -2,5 +2,6 @@
 nav {
   text-align: right;
   color: black;
-  background-color: seashell;
+  background-color: green;
+  opacity: 0.3;
 }
